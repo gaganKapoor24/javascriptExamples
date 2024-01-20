@@ -1,1 +1,1 @@
-# javascriptExamples
+# javascript
